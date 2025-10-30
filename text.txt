@@ -1,1 +1,2 @@
-Hello devOps this is my first project in git
+This is my second update using Git.
+
